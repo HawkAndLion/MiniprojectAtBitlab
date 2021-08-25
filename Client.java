@@ -22,13 +22,4 @@ public class Client {
     }
 }
 
-//Работающая версия для GUI (вводятся данные и выводятся данные в виде таблицы)
-//public class Client {
-//    public static void main(String[] args) {
-//        Scanner scan = new Scanner(System.in);
-//
-//        StudentApplication frame = new StudentApplication();
-//        frame.setVisible(true);
-//        frame.setResizable(false);
-//    }
-//}
+
